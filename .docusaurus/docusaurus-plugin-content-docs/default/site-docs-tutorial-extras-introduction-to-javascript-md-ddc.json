@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-extras/Introduction-to-Javascript",
+  "id": "tutorial-extras/Introduction-to-Javascript",
+  "isDocsHomePage": false,
+  "title": "Introduction to Javascript",
+  "description": "🌟 Get ready to explore the magical world of JavaScript! Imagine you have a magic wand that can make web pages come alive with cool tricks and actions. That's exactly what JavaScript does – it's like the spell that makes websites interactive and exciting!",
+  "source": "@site/docs/tutorial-extras/Introduction-to-Javascript.md",
+  "sourceDirName": "tutorial-extras",
+  "slug": "/tutorial-extras/Introduction-to-Javascript",
+  "permalink": "/docs/tutorial-extras/Introduction-to-Javascript",
+  "editUrl": "https://github.com/mayurpatil77/KidScript/tree/main/docs/tutorial-extras/Introduction-to-Javascript.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Responsive Design",
+    "permalink": "/docs/tutorial-extras/Responsive-Design"
+  },
+  "next": {
+    "title": "Introduction to Web Hosting",
+    "permalink": "/docs/tutorial-extras/Introduction-to-Web-Hosting"
+  }
+}

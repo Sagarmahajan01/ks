@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-basics/Making-Choices-with-Conditionals",
+  "id": "tutorial-basics/Making-Choices-with-Conditionals",
+  "isDocsHomePage": false,
+  "title": "Making Choices with Conditionals",
+  "description": "📖 Imagine your computer friend, the \"Choice Wizard,\" can make decisions based on special conditions you set. It's like having a helper who follows different paths depending on the situation!",
+  "source": "@site/docs/tutorial-basics/Making-Choices-with-Conditionals.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/Making-Choices-with-Conditionals",
+  "permalink": "/docs/tutorial-basics/Making-Choices-with-Conditionals",
+  "editUrl": "https://github.com/mayurpatil77/KidScript/tree/main/docs/tutorial-basics/Making-Choices-with-Conditionals.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sequences and Instructions",
+    "permalink": "/docs/tutorial-basics/Sequences-and-Instructions"
+  },
+  "next": {
+    "title": "Patterns and Loops",
+    "permalink": "/docs/tutorial-basics/Patterns-and-Loops"
+  }
+}

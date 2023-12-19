@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-basics/Patterns-and-Loops",
+  "id": "tutorial-basics/Patterns-and-Loops",
+  "isDocsHomePage": false,
+  "title": "Patterns and Loops",
+  "description": "📖 Imagine you're a music conductor, and your computer friend, the \"Loop Composer,\" can play a series of actions in a pattern. It's like creating a rhythm that repeats and makes amazing things happen!",
+  "source": "@site/docs/tutorial-basics/Patterns-and-Loops.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/Patterns-and-Loops",
+  "permalink": "/docs/tutorial-basics/Patterns-and-Loops",
+  "editUrl": "https://github.com/mayurpatil77/KidScript/tree/main/docs/tutorial-basics/Patterns-and-Loops.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Making Choices with Conditionals",
+    "permalink": "/docs/tutorial-basics/Making-Choices-with-Conditionals"
+  },
+  "next": {
+    "title": "Introduction-to-Websites",
+    "permalink": "/docs/tutorial-extras/Introduction-to-Websites"
+  }
+}

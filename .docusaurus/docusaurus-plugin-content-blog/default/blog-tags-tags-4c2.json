@@ -1,0 +1,23 @@
+{
+  "/blog/tags/coding": {
+    "allTagsPath": "/blog/tags",
+    "slug": "/blog/tags/coding",
+    "name": "Coding",
+    "count": 3,
+    "permalink": "/blog/tags/coding"
+  },
+  "/blog/tags/story": {
+    "allTagsPath": "/blog/tags",
+    "slug": "/blog/tags/story",
+    "name": "Story",
+    "count": 2,
+    "permalink": "/blog/tags/story"
+  },
+  "/blog/tags/tips": {
+    "allTagsPath": "/blog/tags",
+    "slug": "/blog/tags/tips",
+    "name": "Tips",
+    "count": 1,
+    "permalink": "/blog/tags/tips"
+  }
+}

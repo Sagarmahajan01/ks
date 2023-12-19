@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-basics/Sequences-and-Instructions",
+  "id": "tutorial-basics/Sequences-and-Instructions",
+  "isDocsHomePage": false,
+  "title": "Sequences and Instructions",
+  "description": "📖 In coding, instructions are like giving specific tasks to your computer friend, the \"Code Explorer.\" Sequences are the order in which you put those instructions. Think of it like giving a recipe to cook something delicious!",
+  "source": "@site/docs/tutorial-basics/Sequences-and-Instructions.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/Sequences-and-Instructions",
+  "permalink": "/docs/tutorial-basics/Sequences-and-Instructions",
+  "editUrl": "https://github.com/mayurpatil77/KidScript/tree/main/docs/tutorial-basics/Sequences-and-Instructions.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Variables and Values",
+    "permalink": "/docs/tutorial-basics/Variables-and-Values"
+  },
+  "next": {
+    "title": "Making Choices with Conditionals",
+    "permalink": "/docs/tutorial-basics/Making-Choices-with-Conditionals"
+  }
+}

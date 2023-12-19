@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-extras/Creating-Layouts",
+  "id": "tutorial-extras/Creating-Layouts",
+  "isDocsHomePage": false,
+  "title": "Creating Layouts",
+  "description": "📐 Get ready to design and arrange elements on your web pages like a true architect! Creating layouts is like arranging furniture in your digital room. Let's dive into the world of layouts and learn how to organize your web content in style.",
+  "source": "@site/docs/tutorial-extras/Creating-Layouts.md",
+  "sourceDirName": "tutorial-extras",
+  "slug": "/tutorial-extras/Creating-Layouts",
+  "permalink": "/docs/tutorial-extras/Creating-Layouts",
+  "editUrl": "https://github.com/mayurpatil77/KidScript/tree/main/docs/tutorial-extras/Creating-Layouts.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Adding Style with CSS",
+    "permalink": "/docs/tutorial-extras/Adding-Style-with-CSS"
+  },
+  "next": {
+    "title": "Interactive Elements",
+    "permalink": "/docs/tutorial-extras/Interactive-Elements"
+  }
+}

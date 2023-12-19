@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-basics/Introduction-to-Coding",
+  "id": "tutorial-basics/Introduction-to-Coding",
+  "isDocsHomePage": false,
+  "title": "Introduction to Coding",
+  "description": "What is Coding and Why It's Exciting",
+  "source": "@site/docs/tutorial-basics/Introduction-to-Coding.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/Introduction-to-Coding",
+  "permalink": "/docs/tutorial-basics/Introduction-to-Coding",
+  "editUrl": "https://github.com/mayurpatil77/KidScript/tree/main/docs/tutorial-basics/Introduction-to-Coding.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "intro",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "Variables and Values",
+    "permalink": "/docs/tutorial-basics/Variables-and-Values"
+  }
+}

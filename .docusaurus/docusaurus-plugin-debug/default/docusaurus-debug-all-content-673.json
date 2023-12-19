@@ -1,0 +1,693 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "versionLabel": "Next",
+          "versionPath": "/docs",
+          "tagsPath": "/docs/tags",
+          "versionEditUrl": "https://github.com/mayurpatil77/KidScript/tree/main/docs",
+          "versionEditUrlLocalized": "https://github.com/mayurpatil77/KidScript/tree/main/i18n/en/docusaurus-plugin-content-docs/current",
+          "versionBanner": null,
+          "versionBadge": false,
+          "versionClassName": "docs-version-current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "C:\\Users\\Admin\\Desktop\\React-\\reactProject\\KidScript-main\\sidebars.js",
+          "contentPath": "C:\\Users\\Admin\\Desktop\\React-\\reactProject\\KidScript-main\\docs",
+          "contentPathLocalized": "C:\\Users\\Admin\\Desktop\\React-\\reactProject\\KidScript-main\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "mainDocId": "intro",
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "Basics",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/Introduction-to-Coding"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/Variables-and-Values"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/Sequences-and-Instructions"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/Making-Choices-with-Conditionals"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/Patterns-and-Loops"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Making Websites",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "tutorial-extras/Introduction-to-Websites"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-extras/Basic-HTML"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-extras/Adding-Style-with-CSS"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-extras/Creating-Layouts"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-extras/Interactive-Elements"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-extras/Responsive-Design"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-extras/Introduction-to-Javascript"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-extras/Introduction-to-Web-Hosting"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-extras/Online-Safety-and-Ethics"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              }
+            ]
+          },
+          "docs": [
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "isDocsHomePage": false,
+              "title": "intro",
+              "description": "---",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/docs/intro",
+              "editUrl": "https://github.com/mayurpatil77/KidScript/tree/main/docs/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Introduction to Coding",
+                "permalink": "/docs/tutorial-basics/Introduction-to-Coding"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/Introduction-to-Coding",
+              "id": "tutorial-basics/Introduction-to-Coding",
+              "isDocsHomePage": false,
+              "title": "Introduction to Coding",
+              "description": "What is Coding and Why It's Exciting",
+              "source": "@site/docs/tutorial-basics/Introduction-to-Coding.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/Introduction-to-Coding",
+              "permalink": "/docs/tutorial-basics/Introduction-to-Coding",
+              "editUrl": "https://github.com/mayurpatil77/KidScript/tree/main/docs/tutorial-basics/Introduction-to-Coding.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "intro",
+                "permalink": "/docs/intro"
+              },
+              "next": {
+                "title": "Variables and Values",
+                "permalink": "/docs/tutorial-basics/Variables-and-Values"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/Making-Choices-with-Conditionals",
+              "id": "tutorial-basics/Making-Choices-with-Conditionals",
+              "isDocsHomePage": false,
+              "title": "Making Choices with Conditionals",
+              "description": "📖 Imagine your computer friend, the \"Choice Wizard,\" can make decisions based on special conditions you set. It's like having a helper who follows different paths depending on the situation!",
+              "source": "@site/docs/tutorial-basics/Making-Choices-with-Conditionals.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/Making-Choices-with-Conditionals",
+              "permalink": "/docs/tutorial-basics/Making-Choices-with-Conditionals",
+              "editUrl": "https://github.com/mayurpatil77/KidScript/tree/main/docs/tutorial-basics/Making-Choices-with-Conditionals.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Sequences and Instructions",
+                "permalink": "/docs/tutorial-basics/Sequences-and-Instructions"
+              },
+              "next": {
+                "title": "Patterns and Loops",
+                "permalink": "/docs/tutorial-basics/Patterns-and-Loops"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/Patterns-and-Loops",
+              "id": "tutorial-basics/Patterns-and-Loops",
+              "isDocsHomePage": false,
+              "title": "Patterns and Loops",
+              "description": "📖 Imagine you're a music conductor, and your computer friend, the \"Loop Composer,\" can play a series of actions in a pattern. It's like creating a rhythm that repeats and makes amazing things happen!",
+              "source": "@site/docs/tutorial-basics/Patterns-and-Loops.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/Patterns-and-Loops",
+              "permalink": "/docs/tutorial-basics/Patterns-and-Loops",
+              "editUrl": "https://github.com/mayurpatil77/KidScript/tree/main/docs/tutorial-basics/Patterns-and-Loops.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Making Choices with Conditionals",
+                "permalink": "/docs/tutorial-basics/Making-Choices-with-Conditionals"
+              },
+              "next": {
+                "title": "Introduction-to-Websites",
+                "permalink": "/docs/tutorial-extras/Introduction-to-Websites"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/Sequences-and-Instructions",
+              "id": "tutorial-basics/Sequences-and-Instructions",
+              "isDocsHomePage": false,
+              "title": "Sequences and Instructions",
+              "description": "📖 In coding, instructions are like giving specific tasks to your computer friend, the \"Code Explorer.\" Sequences are the order in which you put those instructions. Think of it like giving a recipe to cook something delicious!",
+              "source": "@site/docs/tutorial-basics/Sequences-and-Instructions.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/Sequences-and-Instructions",
+              "permalink": "/docs/tutorial-basics/Sequences-and-Instructions",
+              "editUrl": "https://github.com/mayurpatil77/KidScript/tree/main/docs/tutorial-basics/Sequences-and-Instructions.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Variables and Values",
+                "permalink": "/docs/tutorial-basics/Variables-and-Values"
+              },
+              "next": {
+                "title": "Making Choices with Conditionals",
+                "permalink": "/docs/tutorial-basics/Making-Choices-with-Conditionals"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/Variables-and-Values",
+              "id": "tutorial-basics/Variables-and-Values",
+              "isDocsHomePage": false,
+              "title": "Variables and Values",
+              "description": "Imagine having magical boxes called \"variables.\" These boxes can hold all sorts of things like numbers, words, and pictures!",
+              "source": "@site/docs/tutorial-basics/Variables-and-Values.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/Variables-and-Values",
+              "permalink": "/docs/tutorial-basics/Variables-and-Values",
+              "editUrl": "https://github.com/mayurpatil77/KidScript/tree/main/docs/tutorial-basics/Variables-and-Values.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Introduction to Coding",
+                "permalink": "/docs/tutorial-basics/Introduction-to-Coding"
+              },
+              "next": {
+                "title": "Sequences and Instructions",
+                "permalink": "/docs/tutorial-basics/Sequences-and-Instructions"
+              }
+            },
+            {
+              "unversionedId": "tutorial-extras/Adding-Style-with-CSS",
+              "id": "tutorial-extras/Adding-Style-with-CSS",
+              "isDocsHomePage": false,
+              "title": "Adding Style with CSS",
+              "description": "🎨 Get ready to add some sparkle and pizzazz to your web pages! CSS (Cascading Style Sheets) is like a magical brush that paints your web pages with colors, fonts, and beautiful designs.",
+              "source": "@site/docs/tutorial-extras/Adding-Style-with-CSS.md",
+              "sourceDirName": "tutorial-extras",
+              "slug": "/tutorial-extras/Adding-Style-with-CSS",
+              "permalink": "/docs/tutorial-extras/Adding-Style-with-CSS",
+              "editUrl": "https://github.com/mayurpatil77/KidScript/tree/main/docs/tutorial-extras/Adding-Style-with-CSS.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Basic HTML",
+                "permalink": "/docs/tutorial-extras/Basic-HTML"
+              },
+              "next": {
+                "title": "Creating Layouts",
+                "permalink": "/docs/tutorial-extras/Creating-Layouts"
+              }
+            },
+            {
+              "unversionedId": "tutorial-extras/Basic-HTML",
+              "id": "tutorial-extras/Basic-HTML",
+              "isDocsHomePage": false,
+              "title": "Basic HTML",
+              "description": "🌟 Welcome to the world of web creation! Just like artists use colors and brushes to paint, web developers use HTML to build amazing web pages. Let's dive into the basics of HTML and start creating our own digital wonders!",
+              "source": "@site/docs/tutorial-extras/Basic-HTML.md",
+              "sourceDirName": "tutorial-extras",
+              "slug": "/tutorial-extras/Basic-HTML",
+              "permalink": "/docs/tutorial-extras/Basic-HTML",
+              "editUrl": "https://github.com/mayurpatil77/KidScript/tree/main/docs/tutorial-extras/Basic-HTML.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Introduction-to-Websites",
+                "permalink": "/docs/tutorial-extras/Introduction-to-Websites"
+              },
+              "next": {
+                "title": "Adding Style with CSS",
+                "permalink": "/docs/tutorial-extras/Adding-Style-with-CSS"
+              }
+            },
+            {
+              "unversionedId": "tutorial-extras/Creating-Layouts",
+              "id": "tutorial-extras/Creating-Layouts",
+              "isDocsHomePage": false,
+              "title": "Creating Layouts",
+              "description": "📐 Get ready to design and arrange elements on your web pages like a true architect! Creating layouts is like arranging furniture in your digital room. Let's dive into the world of layouts and learn how to organize your web content in style.",
+              "source": "@site/docs/tutorial-extras/Creating-Layouts.md",
+              "sourceDirName": "tutorial-extras",
+              "slug": "/tutorial-extras/Creating-Layouts",
+              "permalink": "/docs/tutorial-extras/Creating-Layouts",
+              "editUrl": "https://github.com/mayurpatil77/KidScript/tree/main/docs/tutorial-extras/Creating-Layouts.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Adding Style with CSS",
+                "permalink": "/docs/tutorial-extras/Adding-Style-with-CSS"
+              },
+              "next": {
+                "title": "Interactive Elements",
+                "permalink": "/docs/tutorial-extras/Interactive-Elements"
+              }
+            },
+            {
+              "unversionedId": "tutorial-extras/Interactive-Elements",
+              "id": "tutorial-extras/Interactive-Elements",
+              "isDocsHomePage": false,
+              "title": "Interactive Elements",
+              "description": "🎮 Get ready to bring your web pages to life with interactive elements! These are like special buttons and games that you can add to your web pages. Let's dive into the exciting world of interactivity and learn how to make your creations even more fun!",
+              "source": "@site/docs/tutorial-extras/Interactive-Elements.md",
+              "sourceDirName": "tutorial-extras",
+              "slug": "/tutorial-extras/Interactive-Elements",
+              "permalink": "/docs/tutorial-extras/Interactive-Elements",
+              "editUrl": "https://github.com/mayurpatil77/KidScript/tree/main/docs/tutorial-extras/Interactive-Elements.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Creating Layouts",
+                "permalink": "/docs/tutorial-extras/Creating-Layouts"
+              },
+              "next": {
+                "title": "Responsive Design",
+                "permalink": "/docs/tutorial-extras/Responsive-Design"
+              }
+            },
+            {
+              "unversionedId": "tutorial-extras/Introduction-to-Javascript",
+              "id": "tutorial-extras/Introduction-to-Javascript",
+              "isDocsHomePage": false,
+              "title": "Introduction to Javascript",
+              "description": "🌟 Get ready to explore the magical world of JavaScript! Imagine you have a magic wand that can make web pages come alive with cool tricks and actions. That's exactly what JavaScript does – it's like the spell that makes websites interactive and exciting!",
+              "source": "@site/docs/tutorial-extras/Introduction-to-Javascript.md",
+              "sourceDirName": "tutorial-extras",
+              "slug": "/tutorial-extras/Introduction-to-Javascript",
+              "permalink": "/docs/tutorial-extras/Introduction-to-Javascript",
+              "editUrl": "https://github.com/mayurpatil77/KidScript/tree/main/docs/tutorial-extras/Introduction-to-Javascript.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Responsive Design",
+                "permalink": "/docs/tutorial-extras/Responsive-Design"
+              },
+              "next": {
+                "title": "Introduction to Web Hosting",
+                "permalink": "/docs/tutorial-extras/Introduction-to-Web-Hosting"
+              }
+            },
+            {
+              "unversionedId": "tutorial-extras/Introduction-to-Web-Hosting",
+              "id": "tutorial-extras/Introduction-to-Web-Hosting",
+              "isDocsHomePage": false,
+              "title": "Introduction to Web Hosting",
+              "description": "🌐 Welcome to the world of web hosting! Imagine you've created a magical website with all your spells and tricks. But where do you keep it so everyone can see? That's where web hosting comes in – it's like finding a home for your website on the internet!",
+              "source": "@site/docs/tutorial-extras/Introduction-to-Web-Hosting.md",
+              "sourceDirName": "tutorial-extras",
+              "slug": "/tutorial-extras/Introduction-to-Web-Hosting",
+              "permalink": "/docs/tutorial-extras/Introduction-to-Web-Hosting",
+              "editUrl": "https://github.com/mayurpatil77/KidScript/tree/main/docs/tutorial-extras/Introduction-to-Web-Hosting.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {
+                "sidebar_position": 8
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Introduction to Javascript",
+                "permalink": "/docs/tutorial-extras/Introduction-to-Javascript"
+              },
+              "next": {
+                "title": "Online Safety and Ethics",
+                "permalink": "/docs/tutorial-extras/Online-Safety-and-Ethics"
+              }
+            },
+            {
+              "unversionedId": "tutorial-extras/Introduction-to-Websites",
+              "id": "tutorial-extras/Introduction-to-Websites",
+              "isDocsHomePage": false,
+              "title": "Introduction-to-Websites",
+              "description": "🌐 Welcome to the magical world of websites! Imagine a place on the internet where you can share cool things, play games, and learn new stuff. That's what a website is all about!",
+              "source": "@site/docs/tutorial-extras/Introduction-to-Websites.md",
+              "sourceDirName": "tutorial-extras",
+              "slug": "/tutorial-extras/Introduction-to-Websites",
+              "permalink": "/docs/tutorial-extras/Introduction-to-Websites",
+              "editUrl": "https://github.com/mayurpatil77/KidScript/tree/main/docs/tutorial-extras/Introduction-to-Websites.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Patterns and Loops",
+                "permalink": "/docs/tutorial-basics/Patterns-and-Loops"
+              },
+              "next": {
+                "title": "Basic HTML",
+                "permalink": "/docs/tutorial-extras/Basic-HTML"
+              }
+            },
+            {
+              "unversionedId": "tutorial-extras/Online-Safety-and-Ethics",
+              "id": "tutorial-extras/Online-Safety-and-Ethics",
+              "isDocsHomePage": false,
+              "title": "Online Safety and Ethics",
+              "description": "🛡️ As young wizards of the digital realm, it's important to understand the magic of online safety and ethical behavior. Just like in the real world, we want to create a positive and safe environment for everyone on the internet!",
+              "source": "@site/docs/tutorial-extras/Online-Safety-and-Ethics.md",
+              "sourceDirName": "tutorial-extras",
+              "slug": "/tutorial-extras/Online-Safety-and-Ethics",
+              "permalink": "/docs/tutorial-extras/Online-Safety-and-Ethics",
+              "editUrl": "https://github.com/mayurpatil77/KidScript/tree/main/docs/tutorial-extras/Online-Safety-and-Ethics.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 9,
+              "frontMatter": {
+                "sidebar_position": 9
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Introduction to Web Hosting",
+                "permalink": "/docs/tutorial-extras/Introduction-to-Web-Hosting"
+              }
+            },
+            {
+              "unversionedId": "tutorial-extras/Responsive-Design",
+              "id": "tutorial-extras/Responsive-Design",
+              "isDocsHomePage": false,
+              "title": "Responsive Design",
+              "description": "🌐 Welcome to the world of responsive design, where your web pages look amazing on all devices! Imagine your web page being like water—able to adapt to big screens, small phones, and everything in between. Get ready to learn how to make your creations responsive and accessible to everyone!",
+              "source": "@site/docs/tutorial-extras/Responsive-Design.md",
+              "sourceDirName": "tutorial-extras",
+              "slug": "/tutorial-extras/Responsive-Design",
+              "permalink": "/docs/tutorial-extras/Responsive-Design",
+              "editUrl": "https://github.com/mayurpatil77/KidScript/tree/main/docs/tutorial-extras/Responsive-Design.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Interactive Elements",
+                "permalink": "/docs/tutorial-extras/Interactive-Elements"
+              },
+              "next": {
+                "title": "Introduction to Javascript",
+                "permalink": "/docs/tutorial-extras/Introduction-to-Javascript"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [
+        {
+          "id": "top-programming-languages",
+          "metadata": {
+            "permalink": "/blog/top-programming-languages",
+            "editUrl": "https://github.com/mayurpatil77/KidScript/tree/main/blog/2023-08-23-top-programming-languages.md",
+            "source": "@site/blog/2023-08-23-top-programming-languages.md",
+            "title": "Top Programming Languages",
+            "description": "Coding is like a magical spell that brings your ideas to life on a digital canvas. If you're a young wizard eager to learn the art of programming, there are many enchanting programming languages that are perfect for kids! Let's dive into the top 10 programming languages that will make your coding journey fun and exciting.",
+            "date": "2023-09-25T00:00:00.000Z",
+            "formattedDate": "September 25, 2023",
+            "tags": [
+              {
+                "label": "Coding",
+                "permalink": "/blog/tags/coding"
+              },
+              {
+                "label": "Story",
+                "permalink": "/blog/tags/story"
+              }
+            ],
+            "readingTime": 2.075,
+            "truncated": false,
+            "authors": [
+              {
+                "name": "Sagar Mahajan",
+                "title": "Web Developer",
+                "url": "https://github.com/mayurpatil77",
+                "image_url": "https://avatars.githubusercontent.com/u/108546950?v=4",
+                "imageURL": "https://avatars.githubusercontent.com/u/108546950?v=4"
+              }
+            ],
+            "nextItem": {
+              "title": "Coding Story",
+              "permalink": "/blog/Coding-Story"
+            }
+          }
+        },
+        {
+          "id": "Coding-Story",
+          "metadata": {
+            "permalink": "/blog/Coding-Story",
+            "editUrl": "https://github.com/mayurpatil77/KidScript/tree/main/blog/2023-08-23-Coding-Story.md",
+            "source": "@site/blog/2023-08-23-Coding-Story.md",
+            "title": "Coding Story",
+            "description": "The Magical Coding Adventure",
+            "date": "2023-08-23T00:00:00.000Z",
+            "formattedDate": "August 23, 2023",
+            "tags": [
+              {
+                "label": "Coding",
+                "permalink": "/blog/tags/coding"
+              },
+              {
+                "label": "Story",
+                "permalink": "/blog/tags/story"
+              }
+            ],
+            "readingTime": 1.83,
+            "truncated": false,
+            "authors": [
+              {
+                "name": "Sagar Mahajan",
+                "title": "Web Developer",
+                "url": "https://github.com/mayurpatil77",
+                "image_url": "https://avatars.githubusercontent.com/u/108546950?v=4",
+                "imageURL": "https://avatars.githubusercontent.com/u/108546950?v=4"
+              }
+            ],
+            "prevItem": {
+              "title": "Top Programming Languages",
+              "permalink": "/blog/top-programming-languages"
+            },
+            "nextItem": {
+              "title": "Coding Tips For Beginners",
+              "permalink": "/blog/Coding-Tips-For-You"
+            }
+          }
+        },
+        {
+          "id": "Coding-Tips-For-You",
+          "metadata": {
+            "permalink": "/blog/Coding-Tips-For-You",
+            "editUrl": "https://github.com/mayurpatil77/KidScript/tree/main/blog/2023-08-23-Coding-Tips.md",
+            "source": "@site/blog/2023-08-23-Coding-Tips.md",
+            "title": "Coding Tips For Beginners",
+            "description": "10 Coding Tips for Kids",
+            "date": "2023-08-23T00:00:00.000Z",
+            "formattedDate": "August 23, 2023",
+            "tags": [
+              {
+                "label": "Coding",
+                "permalink": "/blog/tags/coding"
+              },
+              {
+                "label": "Tips",
+                "permalink": "/blog/tags/tips"
+              }
+            ],
+            "readingTime": 1.8,
+            "truncated": false,
+            "authors": [
+              {
+                "name": "Sagar Mahajan",
+                "title": "Web Developer",
+                "url": "https://github.com/mayurpatil77",
+                "image_url": "https://avatars.githubusercontent.com/u/108546950?v=4",
+                "imageURL": "https://avatars.githubusercontent.com/u/108546950?v=4"
+              }
+            ],
+            "prevItem": {
+              "title": "Coding Story",
+              "permalink": "/blog/Coding-Story"
+            }
+          }
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "metadata": {
+            "permalink": "/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 3,
+            "previousPage": null,
+            "nextPage": null,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          },
+          "items": [
+            "top-programming-languages",
+            "Coding-Story",
+            "Coding-Tips-For-You"
+          ]
+        }
+      ],
+      "blogTags": {
+        "/blog/tags/coding": {
+          "name": "Coding",
+          "items": [
+            "top-programming-languages",
+            "Coding-Story",
+            "Coding-Tips-For-You"
+          ],
+          "permalink": "/blog/tags/coding"
+        },
+        "/blog/tags/story": {
+          "name": "Story",
+          "items": [
+            "top-programming-languages",
+            "Coding-Story"
+          ],
+          "permalink": "/blog/tags/story"
+        },
+        "/blog/tags/tips": {
+          "name": "Tips",
+          "items": [
+            "Coding-Tips-For-You"
+          ],
+          "permalink": "/blog/tags/tips"
+        }
+      },
+      "blogTagsListPath": "/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {
+    "default": null
+  },
+  "docusaurus-theme-classic": {
+    "default": null
+  }
+}

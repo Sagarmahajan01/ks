@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-extras/Responsive-Design",
+  "id": "tutorial-extras/Responsive-Design",
+  "isDocsHomePage": false,
+  "title": "Responsive Design",
+  "description": "🌐 Welcome to the world of responsive design, where your web pages look amazing on all devices! Imagine your web page being like water—able to adapt to big screens, small phones, and everything in between. Get ready to learn how to make your creations responsive and accessible to everyone!",
+  "source": "@site/docs/tutorial-extras/Responsive-Design.md",
+  "sourceDirName": "tutorial-extras",
+  "slug": "/tutorial-extras/Responsive-Design",
+  "permalink": "/docs/tutorial-extras/Responsive-Design",
+  "editUrl": "https://github.com/mayurpatil77/KidScript/tree/main/docs/tutorial-extras/Responsive-Design.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Interactive Elements",
+    "permalink": "/docs/tutorial-extras/Interactive-Elements"
+  },
+  "next": {
+    "title": "Introduction to Javascript",
+    "permalink": "/docs/tutorial-extras/Introduction-to-Javascript"
+  }
+}

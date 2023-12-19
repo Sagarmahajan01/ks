@@ -1,0 +1,104 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "intro",
+        "href": "/docs/intro"
+      },
+      {
+        "type": "category",
+        "label": "Basics",
+        "items": [
+          {
+            "type": "link",
+            "label": "Introduction to Coding",
+            "href": "/docs/tutorial-basics/Introduction-to-Coding"
+          },
+          {
+            "type": "link",
+            "label": "Variables and Values",
+            "href": "/docs/tutorial-basics/Variables-and-Values"
+          },
+          {
+            "type": "link",
+            "label": "Sequences and Instructions",
+            "href": "/docs/tutorial-basics/Sequences-and-Instructions"
+          },
+          {
+            "type": "link",
+            "label": "Making Choices with Conditionals",
+            "href": "/docs/tutorial-basics/Making-Choices-with-Conditionals"
+          },
+          {
+            "type": "link",
+            "label": "Patterns and Loops",
+            "href": "/docs/tutorial-basics/Patterns-and-Loops"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Making Websites",
+        "items": [
+          {
+            "type": "link",
+            "label": "Introduction-to-Websites",
+            "href": "/docs/tutorial-extras/Introduction-to-Websites"
+          },
+          {
+            "type": "link",
+            "label": "Basic HTML",
+            "href": "/docs/tutorial-extras/Basic-HTML"
+          },
+          {
+            "type": "link",
+            "label": "Adding Style with CSS",
+            "href": "/docs/tutorial-extras/Adding-Style-with-CSS"
+          },
+          {
+            "type": "link",
+            "label": "Creating Layouts",
+            "href": "/docs/tutorial-extras/Creating-Layouts"
+          },
+          {
+            "type": "link",
+            "label": "Interactive Elements",
+            "href": "/docs/tutorial-extras/Interactive-Elements"
+          },
+          {
+            "type": "link",
+            "label": "Responsive Design",
+            "href": "/docs/tutorial-extras/Responsive-Design"
+          },
+          {
+            "type": "link",
+            "label": "Introduction to Javascript",
+            "href": "/docs/tutorial-extras/Introduction-to-Javascript"
+          },
+          {
+            "type": "link",
+            "label": "Introduction to Web Hosting",
+            "href": "/docs/tutorial-extras/Introduction-to-Web-Hosting"
+          },
+          {
+            "type": "link",
+            "label": "Online Safety and Ethics",
+            "href": "/docs/tutorial-extras/Online-Safety-and-Ethics"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      }
+    ]
+  }
+}

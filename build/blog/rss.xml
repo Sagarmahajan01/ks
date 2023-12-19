@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>KidScript Blog</title>
+        <link>https://kidscript.netlify.app/blog</link>
+        <description>KidScript Blog</description>
+        <lastBuildDate>Mon, 25 Sep 2023 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Top Programming Languages]]></title>
+            <link>https://kidscript.netlify.app/blog/top-programming-languages</link>
+            <guid>top-programming-languages</guid>
+            <pubDate>Mon, 25 Sep 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Coding is like a magical spell that brings your ideas to life on a digital canvas. If you're a young wizard eager to learn the art of programming, there are many enchanting programming languages that are perfect for kids! Let's dive into the top 10 programming languages that will make your coding journey fun and exciting.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Coding Story]]></title>
+            <link>https://kidscript.netlify.app/blog/Coding-Story</link>
+            <guid>Coding-Story</guid>
+            <pubDate>Wed, 23 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Magical Coding Adventure]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Coding Tips For Beginners]]></title>
+            <link>https://kidscript.netlify.app/blog/Coding-Tips-For-You</link>
+            <guid>Coding-Tips-For-You</guid>
+            <pubDate>Wed, 23 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[10 Coding Tips for Kids]]></description>
+        </item>
+    </channel>
+</rss>

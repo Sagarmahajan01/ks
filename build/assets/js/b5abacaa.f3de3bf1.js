@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkid_script=self.webpackChunkkid_script||[]).push([[141],{4508:s=>{s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/story","name":"Story","count":2,"permalink":"/blog/tags/story"}')}}]);

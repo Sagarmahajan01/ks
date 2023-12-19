@@ -1,0 +1,23 @@
+{
+  "unversionedId": "tutorial-extras/Online-Safety-and-Ethics",
+  "id": "tutorial-extras/Online-Safety-and-Ethics",
+  "isDocsHomePage": false,
+  "title": "Online Safety and Ethics",
+  "description": "🛡️ As young wizards of the digital realm, it's important to understand the magic of online safety and ethical behavior. Just like in the real world, we want to create a positive and safe environment for everyone on the internet!",
+  "source": "@site/docs/tutorial-extras/Online-Safety-and-Ethics.md",
+  "sourceDirName": "tutorial-extras",
+  "slug": "/tutorial-extras/Online-Safety-and-Ethics",
+  "permalink": "/docs/tutorial-extras/Online-Safety-and-Ethics",
+  "editUrl": "https://github.com/mayurpatil77/KidScript/tree/main/docs/tutorial-extras/Online-Safety-and-Ethics.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction to Web Hosting",
+    "permalink": "/docs/tutorial-extras/Introduction-to-Web-Hosting"
+  }
+}

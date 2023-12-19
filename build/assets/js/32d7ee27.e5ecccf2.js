@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkid_script=self.webpackChunkkid_script||[]).push([[821],{7503:s=>{s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/coding","name":"Coding","count":3,"permalink":"/blog/tags/coding"}')}}]);

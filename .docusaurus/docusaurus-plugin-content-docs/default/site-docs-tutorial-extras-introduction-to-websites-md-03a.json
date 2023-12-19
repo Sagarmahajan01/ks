@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-extras/Introduction-to-Websites",
+  "id": "tutorial-extras/Introduction-to-Websites",
+  "isDocsHomePage": false,
+  "title": "Introduction-to-Websites",
+  "description": "🌐 Welcome to the magical world of websites! Imagine a place on the internet where you can share cool things, play games, and learn new stuff. That's what a website is all about!",
+  "source": "@site/docs/tutorial-extras/Introduction-to-Websites.md",
+  "sourceDirName": "tutorial-extras",
+  "slug": "/tutorial-extras/Introduction-to-Websites",
+  "permalink": "/docs/tutorial-extras/Introduction-to-Websites",
+  "editUrl": "https://github.com/mayurpatil77/KidScript/tree/main/docs/tutorial-extras/Introduction-to-Websites.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Patterns and Loops",
+    "permalink": "/docs/tutorial-basics/Patterns-and-Loops"
+  },
+  "next": {
+    "title": "Basic HTML",
+    "permalink": "/docs/tutorial-extras/Basic-HTML"
+  }
+}

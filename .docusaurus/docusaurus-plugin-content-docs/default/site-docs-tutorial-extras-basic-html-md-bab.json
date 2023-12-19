@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-extras/Basic-HTML",
+  "id": "tutorial-extras/Basic-HTML",
+  "isDocsHomePage": false,
+  "title": "Basic HTML",
+  "description": "🌟 Welcome to the world of web creation! Just like artists use colors and brushes to paint, web developers use HTML to build amazing web pages. Let's dive into the basics of HTML and start creating our own digital wonders!",
+  "source": "@site/docs/tutorial-extras/Basic-HTML.md",
+  "sourceDirName": "tutorial-extras",
+  "slug": "/tutorial-extras/Basic-HTML",
+  "permalink": "/docs/tutorial-extras/Basic-HTML",
+  "editUrl": "https://github.com/mayurpatil77/KidScript/tree/main/docs/tutorial-extras/Basic-HTML.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction-to-Websites",
+    "permalink": "/docs/tutorial-extras/Introduction-to-Websites"
+  },
+  "next": {
+    "title": "Adding Style with CSS",
+    "permalink": "/docs/tutorial-extras/Adding-Style-with-CSS"
+  }
+}

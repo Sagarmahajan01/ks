@@ -1,0 +1,34 @@
+{
+  "permalink": "/blog/Coding-Tips-For-You",
+  "editUrl": "https://github.com/mayurpatil77/KidScript/tree/main/blog/2023-08-23-Coding-Tips.md",
+  "source": "@site/blog/2023-08-23-Coding-Tips.md",
+  "title": "Coding Tips For Beginners",
+  "description": "10 Coding Tips for Kids",
+  "date": "2023-08-23T00:00:00.000Z",
+  "formattedDate": "August 23, 2023",
+  "tags": [
+    {
+      "label": "Coding",
+      "permalink": "/blog/tags/coding"
+    },
+    {
+      "label": "Tips",
+      "permalink": "/blog/tags/tips"
+    }
+  ],
+  "readingTime": 1.8,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Sagar Mahajan",
+      "title": "Web Developer",
+      "url": "https://github.com/mayurpatil77",
+      "image_url": "https://avatars.githubusercontent.com/u/108546950?v=4",
+      "imageURL": "https://avatars.githubusercontent.com/u/108546950?v=4"
+    }
+  ],
+  "prevItem": {
+    "title": "Coding Story",
+    "permalink": "/blog/Coding-Story"
+  }
+}

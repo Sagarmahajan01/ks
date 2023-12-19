@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-extras/Interactive-Elements",
+  "id": "tutorial-extras/Interactive-Elements",
+  "isDocsHomePage": false,
+  "title": "Interactive Elements",
+  "description": "🎮 Get ready to bring your web pages to life with interactive elements! These are like special buttons and games that you can add to your web pages. Let's dive into the exciting world of interactivity and learn how to make your creations even more fun!",
+  "source": "@site/docs/tutorial-extras/Interactive-Elements.md",
+  "sourceDirName": "tutorial-extras",
+  "slug": "/tutorial-extras/Interactive-Elements",
+  "permalink": "/docs/tutorial-extras/Interactive-Elements",
+  "editUrl": "https://github.com/mayurpatil77/KidScript/tree/main/docs/tutorial-extras/Interactive-Elements.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Creating Layouts",
+    "permalink": "/docs/tutorial-extras/Creating-Layouts"
+  },
+  "next": {
+    "title": "Responsive Design",
+    "permalink": "/docs/tutorial-extras/Responsive-Design"
+  }
+}

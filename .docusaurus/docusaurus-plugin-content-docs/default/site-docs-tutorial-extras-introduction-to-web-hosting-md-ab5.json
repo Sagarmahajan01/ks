@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-extras/Introduction-to-Web-Hosting",
+  "id": "tutorial-extras/Introduction-to-Web-Hosting",
+  "isDocsHomePage": false,
+  "title": "Introduction to Web Hosting",
+  "description": "🌐 Welcome to the world of web hosting! Imagine you've created a magical website with all your spells and tricks. But where do you keep it so everyone can see? That's where web hosting comes in – it's like finding a home for your website on the internet!",
+  "source": "@site/docs/tutorial-extras/Introduction-to-Web-Hosting.md",
+  "sourceDirName": "tutorial-extras",
+  "slug": "/tutorial-extras/Introduction-to-Web-Hosting",
+  "permalink": "/docs/tutorial-extras/Introduction-to-Web-Hosting",
+  "editUrl": "https://github.com/mayurpatil77/KidScript/tree/main/docs/tutorial-extras/Introduction-to-Web-Hosting.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction to Javascript",
+    "permalink": "/docs/tutorial-extras/Introduction-to-Javascript"
+  },
+  "next": {
+    "title": "Online Safety and Ethics",
+    "permalink": "/docs/tutorial-extras/Online-Safety-and-Ethics"
+  }
+}

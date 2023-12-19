@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkid_script=self.webpackChunkkid_script||[]).push([[535],{5641:i=>{i.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Top Programming Languages","permalink":"/blog/top-programming-languages"},{"title":"Coding Story","permalink":"/blog/Coding-Story"},{"title":"Coding Tips For Beginners","permalink":"/blog/Coding-Tips-For-You"}]}')}}]);

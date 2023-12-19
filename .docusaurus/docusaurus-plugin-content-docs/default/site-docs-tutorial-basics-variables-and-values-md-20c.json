@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-basics/Variables-and-Values",
+  "id": "tutorial-basics/Variables-and-Values",
+  "isDocsHomePage": false,
+  "title": "Variables and Values",
+  "description": "Imagine having magical boxes called \"variables.\" These boxes can hold all sorts of things like numbers, words, and pictures!",
+  "source": "@site/docs/tutorial-basics/Variables-and-Values.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/Variables-and-Values",
+  "permalink": "/docs/tutorial-basics/Variables-and-Values",
+  "editUrl": "https://github.com/mayurpatil77/KidScript/tree/main/docs/tutorial-basics/Variables-and-Values.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction to Coding",
+    "permalink": "/docs/tutorial-basics/Introduction-to-Coding"
+  },
+  "next": {
+    "title": "Sequences and Instructions",
+    "permalink": "/docs/tutorial-basics/Sequences-and-Instructions"
+  }
+}

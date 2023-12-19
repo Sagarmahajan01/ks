@@ -1,0 +1,93 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/Introduction-to-Coding",
+              "path": "/docs/tutorial-basics/Introduction-to-Coding",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/Making-Choices-with-Conditionals",
+              "path": "/docs/tutorial-basics/Making-Choices-with-Conditionals",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/Patterns-and-Loops",
+              "path": "/docs/tutorial-basics/Patterns-and-Loops",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/Sequences-and-Instructions",
+              "path": "/docs/tutorial-basics/Sequences-and-Instructions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/Variables-and-Values",
+              "path": "/docs/tutorial-basics/Variables-and-Values",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/Adding-Style-with-CSS",
+              "path": "/docs/tutorial-extras/Adding-Style-with-CSS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/Basic-HTML",
+              "path": "/docs/tutorial-extras/Basic-HTML",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/Creating-Layouts",
+              "path": "/docs/tutorial-extras/Creating-Layouts",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/Interactive-Elements",
+              "path": "/docs/tutorial-extras/Interactive-Elements",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/Introduction-to-Javascript",
+              "path": "/docs/tutorial-extras/Introduction-to-Javascript",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/Introduction-to-Web-Hosting",
+              "path": "/docs/tutorial-extras/Introduction-to-Web-Hosting",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/Introduction-to-Websites",
+              "path": "/docs/tutorial-extras/Introduction-to-Websites",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/Online-Safety-and-Ethics",
+              "path": "/docs/tutorial-extras/Online-Safety-and-Ethics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/Responsive-Design",
+              "path": "/docs/tutorial-extras/Responsive-Design",
+              "sidebar": "tutorialSidebar"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

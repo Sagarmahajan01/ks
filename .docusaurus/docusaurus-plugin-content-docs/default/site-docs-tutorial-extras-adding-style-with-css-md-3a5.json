@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-extras/Adding-Style-with-CSS",
+  "id": "tutorial-extras/Adding-Style-with-CSS",
+  "isDocsHomePage": false,
+  "title": "Adding Style with CSS",
+  "description": "🎨 Get ready to add some sparkle and pizzazz to your web pages! CSS (Cascading Style Sheets) is like a magical brush that paints your web pages with colors, fonts, and beautiful designs.",
+  "source": "@site/docs/tutorial-extras/Adding-Style-with-CSS.md",
+  "sourceDirName": "tutorial-extras",
+  "slug": "/tutorial-extras/Adding-Style-with-CSS",
+  "permalink": "/docs/tutorial-extras/Adding-Style-with-CSS",
+  "editUrl": "https://github.com/mayurpatil77/KidScript/tree/main/docs/tutorial-extras/Adding-Style-with-CSS.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Basic HTML",
+    "permalink": "/docs/tutorial-extras/Basic-HTML"
+  },
+  "next": {
+    "title": "Creating Layouts",
+    "permalink": "/docs/tutorial-extras/Creating-Layouts"
+  }
+}
